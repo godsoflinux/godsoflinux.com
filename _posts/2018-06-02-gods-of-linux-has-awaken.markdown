@@ -7,4 +7,4 @@ categories: introduction
 
 ### Gods of Linux has awaken
 
-Gods of linux is online as of 2018/06/02. We will be pumping out amazing content on linux. Be sure to follow us on twitter @godsoflinux. So you can become the god you were meant to be eventually. 
+**Gods-of-linux** is online as of 2018/06/02. We will be pumping out educational content about linux. Be sure to follow us on twitter @godsoflinux, so you can become the god you were meant to be. 
