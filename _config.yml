@@ -28,6 +28,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # deployment
 host: 0.0.0.0
